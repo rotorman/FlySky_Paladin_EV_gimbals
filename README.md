@@ -1,2 +1,2 @@
-# FlySky_Paladin_EV_gimbals
-Tests for FlySky Paladin EV gimbals
+# FlySky Paladin EV gimbals
+Various tests for FlySky Paladin EV gimbals
